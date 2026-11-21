@@ -1,2 +1,2 @@
 # primeiro-exerc-cio
-Criar repositório
+Criar repositório (commit)
